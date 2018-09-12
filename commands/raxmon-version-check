@@ -25,7 +25,7 @@ except:
 from raxmon_cli import __version__
 from raxmon_cli.common import run_action
 
-URL = 'http://pypi.python.org/pypi/rackspace-monitoring-cli/json'
+URL = 'https://pypi.python.org/pypi/rackspace-monitoring-cli/json'
 
 options = []
 required_options = []
